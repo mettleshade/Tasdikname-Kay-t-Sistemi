@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TasdiknameKayıtSistemi
+</name>
+</assembly>
+<members>
+<member name="P:TasdiknameKayit.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TasdiknameKayit.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TasdiknameKayit.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSet.kayitlarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSet.kayitlarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSet.kayitlarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSetTableAdapters.kayitlarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TasdiknameKayit.DatabaseeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TasdiknameKayit.DatabaseeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TasdiknameKayit.DatabaseeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.UpdateAll(TasdiknameKayit.DatabaseeDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TasdiknameKayit.DatabaseeDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

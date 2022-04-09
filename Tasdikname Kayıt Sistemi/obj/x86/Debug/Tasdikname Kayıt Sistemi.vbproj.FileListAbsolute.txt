@@ -1,0 +1,134 @@
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
+C:\Users\LAB3-OGR1\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form1.resources
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form2.resources
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form3.resources
+C:\Users\Mettless Dizayn\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Resources.resources
+D:\Belgelerim\V.B. Uygulamalar\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+D:\Belgelerim\V.B. Uygulamalar\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+D:\Belgelerim\V.B. Uygulamalar\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+D:\Belgelerim\V.B. Uygulamalar\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form1.resources
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form2.resources
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form3.resources
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Resources.resources
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.ResolveComReference.cache
+D:\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form4.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form1.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form2.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form3.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Resources.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbprojResolveAssemblyReference.cache
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form1.resources
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form2.resources
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form3.resources
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Resources.resources
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC01\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form1.resources
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form2.resources
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form3.resources
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Resources.resources
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC01\Desktop\asf\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form1.resources
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form2.resources
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Form3.resources
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname.Resources.resources
+C:\Users\Mehmet\Desktop\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbprojResolveAssemblyReference.cache
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Form1.resources
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Form2.resources
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Form3.resources
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Yönetmelik Uygulamaları\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe.config
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\bin\Debug\Databasee.mdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\bin\Debug\Tasdikname Kayıt Sistemi.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbprojResolveAssemblyReference.cache
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Form1.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Form2.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Form3.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\TasdiknameKayit.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Dosyaları\Tasdikname Kayıt Sistemi FİNAL\Tasdikname Kayıt Sistemi\obj\x86\Debug\Tasdikname Kayıt Sistemi.vbproj.GenerateResource.Cache
